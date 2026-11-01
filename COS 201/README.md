@@ -38,4 +38,7 @@ java ItemCost
 ```
 
 ## Author
-COS 201 Student
+Odusami OLUWABUKUNMI IYINOLUWA 
+Software engineering 
+200level
+25/17838
